@@ -1,7 +1,8 @@
 ﻿# CollisionBenchmark
 
 A .NET 10 project to benchmark different collision detection algorithms
-using [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet).
+using [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet). 
+This code was used for my blog post https://shendriks.dev/devlog/2d-shmup/0003-collisions/.
 
 ## Overview
 
